@@ -1,0 +1,32 @@
+{
+  "name": "flux-arch-sample",
+  "version": "1.0.0",
+  "description": "a note for flux arch",
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.3.1",
+    "react-dom": "16.3.1",
+    "react-redux": "5.0.7",
+    "redux": "3.7.2",
+    "redux-logger": "3.0.6",
+    "verbal-expressions": "^0.3.0"
+  },
+  "devDependencies": {
+    "@types/react": "16.3.5",
+    "@types/react-dom": "16.0.4",
+    "@types/react-redux": "5.0.15",
+    "@types/redux-logger": "3.0.5",
+    "ts-loader": "4.1.0",
+    "typescript": "2.8.1",
+    "webpack": "4.5.0",
+    "webpack-cli": "2.0.14",
+    "babel-core": "^6.26.0",
+    "babel-runtime": "^6.26.0"
+  },
+  "scripts": {
+    "build": "webpack --mode development",
+    "watch": "webpack --mode development --watch"
+  },
+  "author": "khanhtc",
+  "license": "UNLICENSED"
+}
