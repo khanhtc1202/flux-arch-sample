@@ -1,21 +1,8 @@
 import {Result} from "../components/SearchResults";
 
-export type TypeAction = {
-    type: "TYPE";
-    text: string;
-};
-
 export type SearchAction = {
     type: "SEARCH";
     results: Array<Result>;
-};
-
-
-export const type = (text: string): TypeAction => {
-    return {
-        type: "TYPE",
-        text
-    };
 };
 
 export const search = (): SearchAction => {
