@@ -15,8 +15,14 @@ type DispatchProps = {
     search: () => void;
 };
 
-const mapStateToProps: MapStateToProps<any, any, State> = () => {
-    return {};
+const mapStateToProps: MapStateToProps<any, any, State> = (state) => {
+    const {
+        queryString
+    } = state;
+
+    return {
+        queryString
+    };
 };
 
 const mapDispatchToProps: MapDispatchToProps<DispatchProps, any> = (

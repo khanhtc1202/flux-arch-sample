@@ -1,7 +1,8 @@
 import { combineReducers } from 'redux';
-
-import RegexParser from "./SearchBox";
+import Type from "./Type";
+import Search from "./Search";
 
 export default combineReducers({
-  regexString: RegexParser
+    queryString: Type,
+    results: Search,
 });

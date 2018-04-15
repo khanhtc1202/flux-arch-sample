@@ -23,12 +23,11 @@ export default class SearchResults extends React.Component<Props, any> {
             <div>
                 <aside>
                     <h2>Search results</h2>
-                    <div>{results.length}</div>
-                    {/*<ul>*/}
-                    {/*{*/}
-                    {/*results.map(f => <li>{f.id} - {f.title}</li>)*/}
-                    {/*}*/}
-                    {/*</ul>*/}
+                    <ul>
+                        {
+                            results.map(f => <li key={f.id.toString()}>{f.title}</li>)
+                        }
+                    </ul>
                 </aside>
             </div>
         );

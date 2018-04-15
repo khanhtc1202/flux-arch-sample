@@ -4,7 +4,7 @@ import { Provider } from 'react-redux';
 
 import store from "./store";
 import SearchBox from "./containers/SearchBox";
-import SearchResults from "./components/SeachResults";
+import SearchResults from "./containers/SearchResults";
 
 ReactDOM.render(
   <Provider store={store}>

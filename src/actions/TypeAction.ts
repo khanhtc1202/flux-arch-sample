@@ -1,5 +1,3 @@
-import {Result} from "../components/SeachResults";
-
 export type TypeAction = {
     type: "TYPE";
     text: string;
