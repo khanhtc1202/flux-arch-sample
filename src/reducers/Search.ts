@@ -1,5 +1,5 @@
 import {SearchAction} from "../actions/SearchAction";
-import {Result} from "../components/SeachResults";
+import {Result} from "../components/SearchResults";
 
 const initialState: Array<Result> = [];
 

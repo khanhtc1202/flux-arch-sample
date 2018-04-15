@@ -1,4 +1,4 @@
-import {Result} from "../components/SeachResults";
+import {Result} from "../components/SearchResults";
 
 export type TypeAction = {
     type: "TYPE";

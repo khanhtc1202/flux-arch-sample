@@ -5,7 +5,7 @@ import {
 } from "react-redux";
 
 import {State} from "../state";
-import SearchResults from "../components/SeachResults";
+import SearchResults from "../components/SearchResults";
 
 const mapStateToProps: MapStateToProps<any, any, State> = (state) => {
     const {
