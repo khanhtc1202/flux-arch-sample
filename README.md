@@ -1,6 +1,6 @@
 # Sample Flux architecture for React App
 
-A sample React application implemented under (FLUX)[https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207] architecture.
+A sample React application implemented under [FLUX](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207) architecture.
 
 ## Project structure
 
