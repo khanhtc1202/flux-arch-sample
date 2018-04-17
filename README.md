@@ -2,6 +2,10 @@
 
 A sample React application implemented under [FLUX](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207) architecture.
 
+## What can it do?
+
+![Image](https://media.giphy.com/media/RkN5nA5O00StGGwXVQ/giphy.gif)
+
 More explanation about this sample go [here](https://fromnoobstogeeks.com/2018/04/15/flux-arch/).
 
 ## Project structure
