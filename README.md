@@ -23,3 +23,19 @@ A sample React application implemented under [FLUX](https://code-cartoons.com/a-
 ├── state.ts
 └── store.ts
 ```
+
+## Usage guide
+
+### Install dependencies
+
+Install dependencies with `npm` using command
+
+```bash
+$ npm install
+```
+
+### Build
+
+```bash
+$ npm run build
+```
