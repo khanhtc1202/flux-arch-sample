@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "a note for flux arch",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khanhtc1202/flux-arch-sample.git"
+  },
   "dependencies": {
     "react": "16.3.1",
     "react-dom": "16.3.1",
