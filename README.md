@@ -1,5 +1,7 @@
 # Sample Flux architecture for React App
 
+[![CodeFactor](https://www.codefactor.io/repository/github/khanhtc1202/flux-arch-sample/badge)](https://www.codefactor.io/repository/github/khanhtc1202/flux-arch-sample)
+
 A sample React application implemented under [FLUX](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207) architecture.
 
 ## What can it do?
