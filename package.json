@@ -12,8 +12,7 @@
     "react-dom": "16.3.1",
     "react-redux": "5.0.7",
     "redux": "3.7.2",
-    "redux-logger": "3.0.6",
-    "verbal-expressions": "^0.3.0"
+    "redux-logger": "3.0.6"
   },
   "devDependencies": {
     "@types/react": "16.3.5",
